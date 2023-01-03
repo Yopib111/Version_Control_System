@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun bill(priceList: Map<String, Int>, shoppingList: MutableList<String>): Int {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12667#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 19 Dec 2022 15:26:04 UTC"
+record: -1

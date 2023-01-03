@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Topics/Map/Products in store/out/
+/Topics/Map/Products in store/out/production/classes/
+/Version Control System/task/build/
+/Version Control System/task/out/
+/Version Control System/task/out/production/classes/
